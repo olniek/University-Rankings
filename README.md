@@ -1,38 +1,32 @@
-# -University-Rankings
+# University Rankings Analysis
 
-Project Summary
+## Project Summary
+
 This project explores global university rankings, focusing on how research performance shapes rankings. Using CWUR (Center for World University Rankings) data from 2012-2016, the goal is to identify key factors influencing rankings and understand the role of research output in university performance.
 
-Key Questions
-What factors have the strongest impact on university rankings?
-How does research output (publications, influence, broad impact) correlate with ranking?
-Do universities with higher research performance consistently rank higher?
-How can universities improve their rankings by enhancing research?
-What distinguishes top, mid-tier, and developing universities in terms of research output?
+## Key Questions
 
-Project Structure
-The analysis is structured into six key components:
+* What factors have the strongest impact on university rankings?
+* How does research output (publications, influence, broad impact) correlate with ranking?
+* Do universities with higher research performance consistently rank higher?
+* How can universities improve their rankings by enhancing research?
 
-Exploratory Analysis – Understanding dataset trends.
+## Project Structure
 
-Exploring Relationships – Identifying correlations between factors.
+The analysis is structured into two components:
 
-Geographical Analysis – Mapping university rankings globally.
+1. **Exploratory Analysis** and **Exploring Relationships** for understanding dataset trends and identifying correlations between factors.
+2. **Geographical Analysis:** Mapping university rankings globally.
 
-Machine Learning: Regression – Predicting rankings based on research impact.
+## Data & Tools
 
-Machine Learning: Clustering – Categorizing universities by performance tiers.
+* **Dataset:** Covers world university rankings from 2012-2016, sourced from Kaggle.
+* **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Python).
+* **Visualization:** Tableau Public.
 
-Time Series Analysis – Analyzing ranking trends over time.
-
-Data & Tools
-Dataset: Covers world university rankings from 2012-2016, sourced from Kaggle.
-
-Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Python).
-
-Visualization: Tableau Public.
-
-Tableau Storyboard
+## Tableau Storyboard
 
 Explore the analysis in Tableau:
-[🔗 Tableau Public Storyboard](https://public.tableau.com/app/profile/olga.niekrasova/viz/StoryBoardTop1000Universities2012-2016/Story1)
+
+[Tableau Public Storyboard](https://public.tableau.com/app/profile/olga.niekrasova/viz/StoryBoardTop1000Universities2012-2016/Story1)
+```
