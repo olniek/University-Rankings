@@ -20,7 +20,7 @@ The analysis is structured into two components:
 
 ## Data & Tools
 
-* **Dataset:** Covers world university rankings from 2012-2016, sourced from Kaggle.
+* **Dataset:** Covers world university rankings from 2012-2016, sourced from [Kaggle](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings).
 * **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Plotly Express, GeoPandas, Folium, JSON.
 * **Visualization:** Tableau Public.
 
@@ -29,4 +29,3 @@ The analysis is structured into two components:
 Explore the analysis in Tableau:
 
 [Tableau Public Storyboard](https://public.tableau.com/app/profile/olga.niekrasova/viz/StoryBoardTop1000Universities2012-2016/Story1)
-```
