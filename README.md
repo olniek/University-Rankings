@@ -21,7 +21,7 @@ The analysis is structured into two components:
 ## Data & Tools
 
 * **Dataset:** Covers world university rankings from 2012-2016, sourced from Kaggle.
-* **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Python).
+* **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Plotly Express, GeoPandas, Folium, JSON.
 * **Visualization:** Tableau Public.
 
 ## Tableau Storyboard
